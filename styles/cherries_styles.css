@@ -1,0 +1,14 @@
+/* .home-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 40px;
+} */
+background {
+    background-color: gray;
+}
+.home-grid {
+    grid-column-start: 1;
+    grid-column-end: 4;
+  }
+  
+  
